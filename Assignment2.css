@@ -45,7 +45,7 @@ a {
 }
 
 a:hover:not(.active) {
-    background-color: rgb(160,238,255);
+    background-color: #D8E0E2;
 	color:rgb(34, 49, 63);
 }
 
